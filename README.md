@@ -6,4 +6,5 @@
  <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=HoanTV197&show_icons=true&locale=en" alt="hoanta">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=HoanTV197&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,css,html,matlab,scss,less">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HoanTV197&theme=dark" alt="GitHub Streak" />
 </p>
